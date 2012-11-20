@@ -29,6 +29,7 @@ feedburner-setting #RSSを自動でFeedBurnerに転送するプラグイン
 google-sitemap-generator #google向けxmlを自動作成して定期的に送信する
 google-analytics-dashboard #ダッシュボードにgoogleAnalyticsを表示する
 head-cleaner #css,javascript,htmlをminify化する。悪影響がある場合もあるので注意して利用
+kb-robotstxt #robots.txtを編集できる[!]
 ktai-style #ガラケーで表示可能にする
 master-post-advert #moreタグ:続きを読むを設置した場所に、個別ページでは広告を挿入できるようにする[!]
 my-category-order #デフォルトではできないカテゴリーの順番変更を可能にする

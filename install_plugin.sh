@@ -38,6 +38,7 @@ no-self-ping #自分自身のサイトにピンバックして自己参照する
 ogp #いいね!ボタンでウォールへ投稿される内容をカスタマイズする
 ps-auto-sitemap #HTML形式のサイトマップを自動生成する
 pagebar #リッチなページ移動ナビゲーションを簡単に生成する
+pushpress #google社員による推奨プラグインで、インデックスを早めてくれ、記事のオリジナル性を主張できるらしい
 redirection #301リダイレクトを簡単に実装する
 rejected-wp-keyword-link-rejected #はてなダイアリーのキーワードがリンク化するようなものを自分で決めて作れ、記事内のキーワードに自動でリンクを設定出来る
 rss-footer #RSSフィードの最下部に情報を埋め込み、パクリを防ぐ
@@ -48,12 +49,13 @@ showid-for-postpagecategorytagcomment #管理画面で記事やカテゴリIDを
 syntaxhighlighter #codeタグなどでコードの説明をする際に、説明するコードを判別してシンタックスハイライトした記事が書ける
 twitter-widget-pro #簡単にカスタマイズできるtwitterウィジェット
 w3-total-cache #wordpressの諸々をキャッシュ化して高速化する。2012/11においてのキャッシュ系プラグインでは最強
-wordpress-popular-posts #人気記事一覧表示ウィジェットを作るプラグイン。24時間/1週間/1ヶ月と期間指定可能。最近の人気一覧などで利用するのが吉
+# wordpress-popular-posts #人気記事一覧表示ウィジェットを作るプラグイン。24時間/1週間/1ヶ月と期間指定可能。最近の人気一覧などで利用するのが吉
 wp-category-archive #サイドバーウィジェットのカテゴリー別アーカイブを表示できるようにする
-wp-dbmanager #データベースバックアップを定期的にとり、メール通知してくれる
+# wp-dbmanager #データベースバックアップを定期的にとり、メール通知してくれる
+wp-no-category-base #カテゴリーページで発生する/category/カテゴリー名/現象を防ぐ
 wp-note #枠ありのメモ書きのようなデザインが簡単なタグ打ちで表示できる。カスタマイズ可能。[!]
 wp-postviews #人気記事一覧を表示するウィジェットが簡単に生成できる,pageviewで判定
-wp-social-bookmarking-light #シンプルな一列のソーシャルシェアボタンを簡単に設置できる
+# wp-social-bookmarking-light #シンプルな一列のソーシャルシェアボタンを簡単に設置できる
 yet-another-related-posts-plugin #関連記事をスコア算出して自動で生成する
 )
 

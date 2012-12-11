@@ -50,6 +50,7 @@ showid-for-postpagecategorytagcomment #管理画面で記事やカテゴリIDを
 syntaxhighlighter #codeタグなどでコードの説明をする際に、説明するコードを判別してシンタックスハイライトした記事が書ける
 twitter-widget-pro #簡単にカスタマイズできるtwitterウィジェット
 w3-total-cache #wordpressの諸々をキャッシュ化して高速化する。2012/11においてのキャッシュ系プラグインでは最強
+widget-logic #各ウィジェットに条件分岐文を追加して挙動を変更する
 # wordpress-popular-posts #人気記事一覧表示ウィジェットを作るプラグイン。24時間/1週間/1ヶ月と期間指定可能。最近の人気一覧などで利用するのが吉
 wp-category-archive #サイドバーウィジェットのカテゴリー別アーカイブを表示できるようにする
 # wp-dbmanager #データベースバックアップを定期的にとり、メール通知してくれる

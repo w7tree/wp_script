@@ -16,42 +16,43 @@ all-in-one-seo-pack #記事ごとにtitle,keyword,descriptionを個別に設定�
 ps-auto-sitemap #HTML形式のサイトマップを自動生成する
 google-sitemap-generator #google向けxmlを自動作成して定期的に送信する
 backwpup #DropBox,AmazonS3等、主要クラウドストレージへとwordpressのバックアップが取れる。使い方: http://sub.kyamamu.com/website/3965.html
-debug-bar #デバッグツール。サイトの速度やクエリリクエストをチェックできる
-debug-bar-extender #上記の拡張
-kb-robotstxt #robots.txtを編集できる[!]
+# debug-bar #デバッグツール。サイトの速度やクエリリクエストをチェックできる
+# debug-bar-extender #上記の拡張
+# kb-robotstxt #robots.txtを編集できる[!]
 no-self-ping #自分自身のサイトにピンバックして自己参照する現象を防ぐ
 pushpress #google社員による推奨プラグインで、インデックスを早めてくれ、記事のオリジナル性を主張できるらしい
 redirection #301リダイレクトを簡単に実装する
 rss-footer #RSSフィードの最下部に情報を埋め込み、パクリを防ぐ
 widget-logic #各ウィジェットに条件分岐文を追加して挙動を変更する
-yet-another-related-posts-plugin #関連記事をスコア算出して自動で生成する
+# yet-another-related-posts-plugin #関連記事をスコア算出して自動で生成する
 wp-no-category-base #カテゴリーページで発生する/category/カテゴリー名/現象を防ぐ
-search-regex #いままで書いた記事すべてを対象に、特定の文字列での置換ができる
+# search-regex #いままで書いた記事すべてを対象に、特定の文字列での置換ができる
 showid-for-postpagecategorytagcomment #管理画面で記事やカテゴリIDを可視化する
 broken-link-checker #サイト内からの発リンク切れを発見する
 # 場合により必須系
-category-posts #サイドバーウィジェットのカテゴリー別最新記事を表示できるようにする
-my-category-order #デフォルトではできないカテゴリーの順番変更を可能にする
-search-meter #ビジターがサイト内でどのような単語で検索したのかを計測する
+# category-posts #サイドバーウィジェットのカテゴリー別最新記事を表示できるようにする
+# my-category-order #デフォルトではできないカテゴリーの順番変更を可能にする
+# search-meter #ビジターがサイト内でどのような単語で検索したのかを計測する
 intuitive-custom-post-order #記事の投稿順序を日付ではなく、自由にドラッグアンドドロップで変更できる。
-sharebar #記事スクロールに追いかけてくるソーシャルシェアボタンを設置できる,動作参考サイト:バズ部ページ左部
-wp-category-archive #サイドバーウィジェットのカテゴリー別アーカイブを表示できるようにする
-wp-postviews #人気記事一覧を表示するウィジェットが簡単に生成できる,pageviewで判定
-wp-note #枠ありのメモ書きのようなデザインが簡単なタグ打ちで表示できる。カスタマイズ可能。[!]
+# sharebar #記事スクロールに追いかけてくるソーシャルシェアボタンを設置できる,動作参考サイト:バズ部ページ左部
+# wp-category-archive #サイドバーウィジェットのカテゴリー別アーカイブを表示できるようにする
+# wp-postviews #人気記事一覧を表示するウィジェットが簡単に生成できる,pageviewで判定
+# wp-note #枠ありのメモ書きのようなデザインが簡単なタグ打ちで表示できる。カスタマイズ可能。[!]
 # ogp #いいね!ボタンでウォールへ投稿される内容をカスタマイズする
 # twitter-widget-pro #簡単にカスタマイズできるtwitterウィジェット
 # syntaxhighlighter #codeタグなどでコードの説明をする際に、説明するコードを判別してシンタックスハイライトした記事が書ける
-# contact-form-7 #メールフォーム簡単作成
+contact-form-7 #メールフォーム簡単作成
 # custom-field-template #カスタムフィールドを拡張する
-# disqus-comment-system #拡張コメント。様々なソーシャルアカウントでログイン可能
+custom-field-suite # 使いやすいカスタムフィールド
+disqus-comment-system #拡張コメント。様々なソーシャルアカウントでログイン可能
 # breadcrumb-navxt #パンくずリストを生成する
 # ktai-style #ガラケーで表示可能にする
 # w3-total-cache #wordpressの諸々をキャッシュ化して高速化する。2012/11においてのキャッシュ系プラグインでは最強
 # 任意系
-addquicktag #タグ入力ショートカットボタンを作成・登録できる
-feedburner-setting #RSSを自動でFeedBurnerに転送するプラグイン
-editorial-calendar #wordpressに管理者用記事更新カレンダーを埋め込み、コンテンツ更新の予定を登録できる
-rejected-wp-keyword-link-rejected #はてなダイアリーのキーワードがリンク化するようなものを自分で決めて作れ、記事内のキーワードに自動でリンクを設定出来る
+# addquicktag #タグ入力ショートカットボタンを作成・登録できる
+# feedburner-setting #RSSを自動でFeedBurnerに転送するプラグイン
+# editorial-calendar #wordpressに管理者用記事更新カレンダーを埋め込み、コンテンツ更新の予定を登録できる
+# rejected-wp-keyword-link-rejected #はてなダイアリーのキーワードがリンク化するようなものを自分で決めて作れ、記事内のキーワードに自動でリンクを設定出来る
 # master-post-advert #moreタグ:続きを読むを設置した場所に、個別ページでは広告を挿入できるようにする[!]
 # auto-hyperlink-urls #http://からはじまる文字列に自動でリンクを設定する
 # cloudflare #サイト高速化で使うCDNサービスのCloudFlareを簡単に使うためのもの

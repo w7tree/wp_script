@@ -12,12 +12,10 @@ PLUGINS=(
 all-in-one-seo-pack #記事ごとにtitle,keyword,descriptionを個別に設定できる
 google-sitemap-generator #google向けxmlを自動作成して定期的に送信する
 pushpress #google社員による推奨プラグインで、インデックスを早めてくれ、記事のオリジナル性を主張できるらしい
-custom-field-suite # 使いやすいカスタムフィールド
-wp-no-category-base #カテゴリーページで発生する/category/カテゴリー名/現象を防ぐ
-no-self-ping #自分自身のサイトにピンバックして自己参照する現象を防ぐ
-redirection #301リダイレクトを簡単に実装する
 ps-auto-sitemap #HTML形式のサイトマップを自動生成する
 showid-for-postpagecategorytagcomment #管理画面で記事やカテゴリIDを可視化する
+post-snippets # ショートコードが簡単に作れる
+shortcodes-ultimate # ショートコードを利用してスライドショーやアコーディオンなど様々なものが入力できる
 )
 
 # ==================================================
@@ -76,6 +74,8 @@ showid-for-postpagecategorytagcomment #管理画面で記事やカテゴリIDを
 # rejected-wp-keyword-link-rejected #はてなダイアリーのキーワードがリンク化するようなものを自分で決めて作れ、記事内のキーワードに自動でリンクを設定出来る
 # master-post-advert #moreタグ:続きを読むを設置した場所に、個別ページでは広告を挿入できるようにする[!]
 # auto-hyperlink-urls #http://からはじまる文字列に自動でリンクを設定する
+# post-snippets # ショートコードが簡単に作れる
+# shortcodes-ultimate # ショートコードを利用してスライドショーやアコーディオンなど様々なものが入力できる
 
 # 管理機能強化系 ----------------------------
 # intuitive-custom-post-order #記事の投稿順序を日付ではなく、自由にドラッグアンドドロップで変更できる。

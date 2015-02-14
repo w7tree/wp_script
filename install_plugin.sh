@@ -10,12 +10,11 @@ set -e
 # ==================================================
 PLUGINS=(
 all-in-one-seo-pack #記事ごとにtitle,keyword,descriptionを個別に設定できる
-google-sitemap-generator #google向けxmlを自動作成して定期的に送信する
-pushpress #google社員による推奨プラグインで、インデックスを早めてくれ、記事のオリジナル性を主張できるらしい
-ps-auto-sitemap #HTML形式のサイトマップを自動生成する
 showid-for-postpagecategorytagcomment #管理画面で記事やカテゴリIDを可視化する
-post-snippets # ショートコードが簡単に作れる
-shortcodes-ultimate # ショートコードを利用してスライドショーやアコーディオンなど様々なものが入力できる
+wordpress-popular-posts #人気記事を表示するプラグイン
+wordpress-23-related-posts-plugin #関連記事を表示するプラグイン
+custom-field-suite # 使いやすいカスタムフィールド
+sns-count-cache #SNSボタン高速化＊カウンターを簡単に表示するプラグイン
 )
 
 # ==================================================
@@ -25,7 +24,6 @@ shortcodes-ultimate # ショートコードを利用してスライドショー�
 
 # View系 ----------------------------------------
 # breadcrumb-navxt #パンくずリストを生成する
-# wp-postviews #人気記事一覧を表示するウィジェットが簡単に生成できる,pageviewで判定
 # widget-logic #各ウィジェットに条件分岐文を追加して挙動を変更する
 # disqus-comment-system #拡張コメント。様々なソーシャルアカウントでログイン可能
 # my-category-order #デフォルトではできないカテゴリーの順番変更を可能にする
@@ -36,6 +34,8 @@ shortcodes-ultimate # ショートコードを利用してスライドショー�
 # master-post-advert #moreタグ:続きを読むを設置した場所に、個別ページでは広告を挿入できるようにする[!]
 # pagebar #リッチなページ移動ナビゲーションを簡単に生成する
 # my-link-order #デフォルトではできないリンク集の順番変更を可能にする
+# wordpress-popular-posts #人気記事を表示するプラグイン
+# wordpress-23-related-posts-plugin #関連記事を表示するプラグイン
 
 # カスタムフィールド関連 ------------------------
 # custom-field-template #カスタムフィールドを拡張する
@@ -47,6 +47,7 @@ shortcodes-ultimate # ショートコードを利用してスライドショー�
 # twitter-widget-pro #簡単にカスタマイズできるtwitterウィジェット
 # rss-footer #RSSフィードの最下部に情報を埋め込み、パクリを防ぐ
 # feedburner-setting #RSSを自動でFeedBurnerに転送するプラグイン
+# sns-count-cache #SNSボタン高速化＊カウンターを簡単に表示するプラグイン
 
 # SEO・アクセス解析系
 # wp-no-category-base #カテゴリーページで発生する/category/カテゴリー名/現象を防ぐ
@@ -82,6 +83,7 @@ shortcodes-ultimate # ショートコードを利用してスライドショー�
 # wp-total-hacks #ログイン画面のロゴ変更、アップデート通知のありなし等、様々な設定が可能
 # user-role-editor #権限者ごとの編集可能権限を細かく設定・カスタマイズする
 # adminimize #権限者ごとの管理画面での表示項目を細かく設定・カスタマイズする
+# user-switching #ひとつのブラウザで複数のユーザータイプでログインできる
 # showid-for-postpagecategorytagcomment #管理画面で記事やカテゴリIDを可視化する
 
 # マルチデバイス --------------------------------

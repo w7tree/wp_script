@@ -11,10 +11,15 @@ set -e
 PLUGINS=(
 all-in-one-seo-pack #記事ごとにtitle,keyword,descriptionを個別に設定できる
 showid-for-postpagecategorytagcomment #管理画面で記事やカテゴリIDを可視化する
-wordpress-popular-posts #人気記事を表示するプラグイン
-wordpress-23-related-posts-plugin #関連記事を表示するプラグイン
+# wordpress-popular-posts #人気記事を表示するプラグイン
+# wordpress-23-related-posts-plugin #関連記事を表示するプラグイン
 custom-field-suite # 使いやすいカスタムフィールド
-sns-count-cache #SNSボタン高速化＊カウンターを簡単に表示するプラグイン
+# sns-count-cache #SNSボタン高速化＊カウンターを簡単に表示するプラグイン
+google-sitemap-generator #google向けxmlを自動作成して定期的に送信する
+pushpress #google社員による推奨プラグインで、インデックスを早めてくれ、記事のオリジナル性を主張できるらしい
+table-of-contents-plus #目次の自動作成
+duplicate-post
+search-everything #検索対象をカスタムフィールドまで広げる
 )
 
 # ==================================================
